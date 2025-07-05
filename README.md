@@ -19,6 +19,6 @@ Players choose a lion character, pick a journey path (Cub Training or Straight t
   - Winning: At the end, Leadership Traits convert to extra Pride Points to decide the winner
 
 # How to run
-g++ -std=c++11 -o game main.cpp Player.cpp Tile.cpp Board.cpp this is run command
+  - g++ -std=c++11 -o game main.cpp Player.cpp Tile.cpp Board.cpp
 
-and then ./game 
+  - ./game 
